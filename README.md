@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+</p>
 
-<!--
-**deryl-sagala/deryl-sagala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aid-3n&layout=compact&theme=light">
+</p>
+  
+<p align="center">
+<a href="https://github.com/derylprojects"><img src="https://github-readme-stats.vercel.app/api?username=derylprojects&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCPd9_ZT97R471WWRS01q9lg"><img src="https://img.shields.io/badge/YouTube-Deryl%20&%20Darren%20Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCPd9_ZT97R471WWRS01q9lg" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
